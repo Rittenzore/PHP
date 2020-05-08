@@ -1,0 +1,4 @@
+1st Hello World
+2nd 45
+3rd bc?
+(Check for a line without a char)
